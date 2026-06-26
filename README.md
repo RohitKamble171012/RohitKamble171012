@@ -12,13 +12,13 @@
 
 ```javascript
 const rohit = {
-  role:        "Full Stack Developer",
+  role:        "Developer",
   company:     "Riyotech 🏢",
   education:   "BTech Computer Science",
   currentlyBuilding: ["GymOs 🏋️", "ApplyFlow 📋", "More..."],
   learning:    ["Data Science", "Machine Learning", "System Design"],
   askMeAbout:  ["Web Dev", "Java", "React", "Node.js"],
-  funFact:     "If I'm not coding, I'm at the GYM 💪",
+  funFact:     "If I'm not coding,Then I am playing game",
   motto:       "Build. Break. Learn. Repeat. 🔄"
 };
 ```
